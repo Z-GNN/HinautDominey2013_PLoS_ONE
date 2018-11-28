@@ -16,11 +16,14 @@ Please refer to the [original README of the paper]()
 
 ## Quick try
 Open a terminal and clone the repository:
+
   '''bash
   git clone https://github.com/neuronalX/HinautDominey2013_PLoS_ONE
   cd HinautDominey2013_PLoS_ONE/
   '''
+
 Then try the default experiment with the *small corpus*:
+
   '''bash
   cd scripts_plos/
   python simple_xp.py
